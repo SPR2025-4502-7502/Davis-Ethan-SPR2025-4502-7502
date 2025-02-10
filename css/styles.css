@@ -8,6 +8,9 @@ nav{
 
 body{
 
+	background-color: rgba(153, 51, 204, 1.0):
+	/*  rgb(153, 51, 204)       */
+
 
 
 }
@@ -17,11 +20,5 @@ body{
 }
 
 
-@media max-width 100px{
 
-	nav
-
-
-
-}
 
