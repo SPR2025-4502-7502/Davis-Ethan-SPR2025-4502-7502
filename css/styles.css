@@ -39,8 +39,7 @@ body{
 .main-image{
 
 	display: flex;
-	max-width: 25%;
-	border-radius: 3000px;
+	
 	
 
 
@@ -49,8 +48,14 @@ body{
 img{
 
 	border: none;
-	
+
 }
 
+.main-image img{
 
+
+	max-width: 25%;
+	border-radius: 3000px;
+	margin: auto;
+}
 
