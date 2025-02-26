@@ -55,11 +55,6 @@ h1{
 	display: flex;
 	justify-content: center;
 	font-family: "Kumbh Sans", serif;
-  	font-optical-sizing: auto;
-  	font-weight: <weight>;
-  	font-style: normal;
-  	font-variation-settings:
-    "YOPQ" 300;
 
 }
 
@@ -87,11 +82,6 @@ img{
 p{
 
 	font-family: "Nunito Sans", serif;
-  	font-optical-sizing: auto;
-  	font-weight: <weight>;
-  	font-style: normal;
-  	font-variation-settings:
-    "wdth" 100,
-    "YTLC" 500;
+
 
 }
