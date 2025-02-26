@@ -7,14 +7,15 @@ body{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: rgba(225, 117, 240, 0.8);
-	/*  rgb(225, 117, 240)       */
+	background-color: rgba(225, 117, 240, 0.3);
+	/*  rgb(68, 35, 72)       */
 	
 
 }
 
 .main-image{
 
+	display: flex;
 	max-width: 25%;
 	border-radius: 3000px;
 	border: none;
