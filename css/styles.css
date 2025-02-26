@@ -10,8 +10,10 @@ nav{
 nav ul{
 
 	display: flex;
+	flex-direction: row;
 	justify-content: center;
   	list-style-type: none;
+  	margin: auto;
 }
 
 
