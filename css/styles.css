@@ -25,7 +25,7 @@ nav ul li{
 
 
 	background-color: lightblue;
-	margin: 0.1rem;
+	margin: 0.4rem;
 }
 
 
@@ -79,7 +79,6 @@ h1{
 .main-image{
 
 	display: flex;	
-	flex-direction: column;
 	justify-content: center;
 
 }
