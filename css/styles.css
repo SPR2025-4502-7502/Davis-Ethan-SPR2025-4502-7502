@@ -2,6 +2,7 @@
 nav{
 	max-width: 600px;
 	font-size: 1.2rem;
+	text-transform: uppercase;
 
 
 }
@@ -79,8 +80,7 @@ img{
 }
 
 p{
-	display: flex;
-	justiify-content: center;
+
 	font-family: "Nunito Sans", serif;
 
 
