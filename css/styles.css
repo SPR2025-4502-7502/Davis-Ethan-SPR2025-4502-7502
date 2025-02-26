@@ -28,6 +28,7 @@ nav ul li a{
 body{
 
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	background-color: rgba(225, 117, 240, 0.3);
 	/*  rgb(68, 35, 72)       */
