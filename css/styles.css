@@ -8,10 +8,12 @@ nav{
 
 body{
 
-	background-color: rgb(225, 117, 240,);
-	/*  rgb(153, 51, 204)       */
+	display: flex;
+	flex-direction: column;
 	justify-content: center;
-
+	background-color: rgba(225, 117, 240, 0.8);
+	/*  rgb(225, 117, 240)       */
+	
 
 }
 
