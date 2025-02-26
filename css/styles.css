@@ -8,12 +8,13 @@ nav{
 
 body{
 
-	background-color: rgb(225, 117, 240,):
+	background-color: rgb(225, 117, 240,);
 	/*  rgb(153, 51, 204)       */
 	justify-content: center;
 
 
 }
+
 .main-image{
 
 	max-width: 25%;
