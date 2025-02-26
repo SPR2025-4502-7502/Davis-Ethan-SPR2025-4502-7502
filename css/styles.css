@@ -5,7 +5,7 @@ nav{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	
+
 
 
 
@@ -14,7 +14,6 @@ nav{
 body{
 
 	display: flex;
-	align-items: center;
 	justify-content: center;
 	background-color: rgba(225, 117, 240, 0.3);
 	/*  rgb(68, 35, 72)       */
