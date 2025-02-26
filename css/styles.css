@@ -35,7 +35,7 @@ nav ul li a{
 
 nav ul li a:visited {
 	text-decoration: none;
-	color: green;
+	color: red;
 }
 
 body{
@@ -55,7 +55,6 @@ h1{
 	display: flex;
 	justify-content: center;
 	font-family: "Kumbh Sans", serif;
-
 }
 
 .main-image{
