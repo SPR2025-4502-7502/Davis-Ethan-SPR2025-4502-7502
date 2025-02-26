@@ -30,6 +30,12 @@ nav ul li a{
 	font-optical-sizing: auto;
   	font-weight: <weight>;
   	font-style: normal;
+  	text-decoration: none;
+}
+
+nav ul li a:visited {
+	text-decoration: none;
+	color: green;
 }
 
 body{
