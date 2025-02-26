@@ -64,7 +64,9 @@ h1{
 .main-image{
 
 	display: flex;	
-	justift-content: center;
+	flex-direction: column;
+	justify-content: center;
+	
 }
 
 
