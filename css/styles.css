@@ -11,6 +11,11 @@ nav{
 
 }
 
+nav ul li a{
+
+	font-family: titllium-web;
+}
+
 body{
 
 	display: flex;
