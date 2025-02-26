@@ -25,6 +25,7 @@ nav ul li{
 
 
 	background-color: lightblue;
+	margin: 0.1rem;
 }
 
 
@@ -35,12 +36,20 @@ nav ul li a{
   	font-weight: <weight>;
   	font-style: normal;
   	text-decoration: none;
+
+
 }
+
+
 
 nav ul li a:visited {
 	text-decoration: none;
 	color: green;
 }
+
+
+
+
 
 body{
 
@@ -53,6 +62,9 @@ body{
 
 }
 
+
+
+
 h1{
 
 
@@ -61,9 +73,14 @@ h1{
 	font-family: "Kumbh Sans", serif;
 }
 
+
+
+
 .main-image{
 
-	
+	display: flex;	
+	flex-direction: column;
+	justify-content: center;
 
 }
 
@@ -73,10 +90,10 @@ h1{
 img{
 
 	border: none;
-	display: flex;	
-	flex-direction: column;
-	justify-content: center;
+	
 }
+
+
 
 .main-image img{
 
@@ -85,6 +102,8 @@ img{
 	border-radius: 3000px;
 	
 }
+
+
 
 p{
 
