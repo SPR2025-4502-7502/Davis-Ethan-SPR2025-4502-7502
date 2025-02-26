@@ -20,6 +20,9 @@ nav ul{
 nav ul li a{
 
 	font-family:"Lexend Peta", serif;
+	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
 }
 
 body{
