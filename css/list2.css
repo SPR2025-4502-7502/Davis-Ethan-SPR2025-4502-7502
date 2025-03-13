@@ -13,7 +13,7 @@ p{
 
 
 
-@media screen and (min-width:501px){
+@media screen and (min-width:50px){
 
 	body{
 
@@ -23,7 +23,7 @@ p{
 }
 
 
-@media screen and (mid-width:720px){
+@media screen and (mid-width:800px){
 
 	.poster {
 
@@ -34,5 +34,5 @@ p{
 
 .poster img{
 
-	
+
 }
