@@ -1,8 +1,8 @@
 
 nav{
+	font-size: 1.2rem;
 	margin: auto;
 	max-width: 600px;
-	font-size: 1.2rem;
 	text-transform: uppercase;
 
 
@@ -35,8 +35,7 @@ nav ul li{
 nav ul li a{
 
 	font-family:"Lexend Peta", serif;
-	font-optical-sizing: auto;
-  	font-weight: <weight>;
+  	font-weight: bold;
   	font-style: normal;
   	text-decoration: none;
 
