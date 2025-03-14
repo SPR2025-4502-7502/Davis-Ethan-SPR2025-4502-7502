@@ -53,6 +53,16 @@ p{
 }
 
 
+.list-name{
+
+	font-weight: 500;
+	font-size: 1.5rem;
+	font-family: "Kumbh Sans", serif;
+	font-style: italic;
+
+}
+
+
 
 .poster img{
 
@@ -67,15 +77,18 @@ p{
 
 @media screen and (min-width:500px){
 
-	body{
-		background-color: beige;
-	}
+body{
 
+	flex-direction: column !important;
+		margin: 3rem;
+}
 
+		flex-direction: co !important;
+		margin: 3rem;
 }
 
 
-@media screen and (mid-width:800px){
+@media screen and (min-width:800px){
 
 	.poster {
 
