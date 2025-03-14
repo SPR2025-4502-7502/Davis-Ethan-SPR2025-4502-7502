@@ -43,7 +43,7 @@ nav ul li a{
 }
 
 
-nav h1{
+ h1{
 
 	
 	display: flex;
@@ -81,6 +81,14 @@ p{
 }
 
 
+.center{
+
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
 
 
 
@@ -91,7 +99,7 @@ body{
 	flex-direction: column !important;
 		margin: 3rem;
 }
-
+	
 		flex-direction: co !important;
 		margin: 3rem;
 }
