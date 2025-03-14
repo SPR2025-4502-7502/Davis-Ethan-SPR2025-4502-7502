@@ -55,10 +55,11 @@ p{
 
 .list-name{
 
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 1.3rem;
 	font-family: "Kumbh Sans", serif;
-	font-style: oblique;
+	font-style: italic;
+	color: green;
 
 }
 
