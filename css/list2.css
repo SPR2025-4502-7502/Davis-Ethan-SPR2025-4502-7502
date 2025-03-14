@@ -18,10 +18,10 @@ p{
 
 
 
-@media screen and (min-width:50px){
+@media screen and (min-width:500px){
 
 	body{
-
+		background-color: beige;
 	}
 
 
