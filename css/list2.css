@@ -44,9 +44,9 @@ nav ul li a{
 }
 
 
-h1{
+nav h1{
 
-
+	margin: auto;
 	display: flex;
 	flex-direction: row;
 	justify-content: left;
