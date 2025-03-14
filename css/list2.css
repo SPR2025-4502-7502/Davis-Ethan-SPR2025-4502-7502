@@ -7,7 +7,39 @@ nav{
 
 
 }
+nav ul{
 
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+  	list-style-type: none;
+
+}
+
+
+
+
+
+
+
+nav ul li{
+
+
+	background-color: lightblue;
+	margin: 0.4rem;
+}
+
+
+nav ul li a{
+
+	font-family:"Lexend Peta", serif;
+	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+  	text-decoration: none;
+
+
+}
 
 
 
