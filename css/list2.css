@@ -88,6 +88,14 @@ body{
 		margin: 3rem;
 }
 
+.blue{
+
+	background-color: lightblue;
+	width: 800px;
+	height: 150px;
+}
+
+
 
 @media screen and (min-width:800px){
 
