@@ -28,6 +28,7 @@ nav ul li{
 	background-color: lightblue;
 	padding: 0.3rem;
 	margin: 0.4rem;
+	max-width: 100%;
 }
 
 
