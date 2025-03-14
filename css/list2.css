@@ -98,7 +98,9 @@ body{
 	}
 }
 
-.poster img{
-
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
 
 }
