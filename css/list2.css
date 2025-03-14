@@ -98,6 +98,11 @@ body{
 }
 
 
+ul li a{
+
+	text-decoration: none;
+}
+
 
 @media screen and (min-width:800px){
 
