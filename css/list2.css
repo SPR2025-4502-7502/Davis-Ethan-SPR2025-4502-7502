@@ -148,6 +148,20 @@ body.location p{
 }
 
 
+@media screen and (min-width: 800px){
+	.location{
+
+		font-size:1.7rem;
+	}
+
+@media screen and (min-width:600px){
+	.location{
+		font-size:1.6rem;
+	}
+}
+
+
+
 
 @media screen and (min-width:800px){
 
