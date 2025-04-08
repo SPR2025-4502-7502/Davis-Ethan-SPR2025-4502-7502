@@ -125,9 +125,7 @@ ul li{
 }
 
 
-.text-holder{
-	display: block;
-}
+
 
 body.location p{
 	font-family: "Noto Sans" sans-serif;
@@ -135,7 +133,7 @@ body.location p{
 
 }
 
-location.container{
+.location-container{
 	display: flex;
   flex-direction: column;
   justify-content: center;
