@@ -135,6 +135,10 @@ body.location p{
 
 }
 
+.location{
+	background-color: #6699ff;
+}
+
 
 
 @media screen and (min-width:800px){
