@@ -124,6 +124,19 @@ ul li{
 }
 }
 
+
+.text-holder{
+	display: block;
+}
+
+body.location p{
+	font-family: "Noto Sans" sans-serif;
+	font-size: 1.5rem;
+
+}
+
+
+
 @media screen and (min-width:800px){
 
 	.poster {
