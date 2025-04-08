@@ -148,13 +148,13 @@ body.location p{
 }
 
 
-@media screen and (min-width: 800px){
+@media screen and (max-width: 800px){
 	.location{
 
 		font-size:1.7rem;
 	}
 
-@media screen and (min-width:600px){
+@media screen and (max-width:600px){
 	.location{
 		font-size:1.6rem;
 	}
