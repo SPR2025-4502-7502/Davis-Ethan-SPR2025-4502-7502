@@ -92,17 +92,6 @@ p{
 
 
 
-@media screen and (min-width:500px){
-
-body{
-
-	flex-direction: column !important;
-		margin: 3rem;
-}
-	
-		
-
-
 .footer{
 
 	background-color: lightblue;
@@ -206,6 +195,21 @@ button_previous{
 stepper{
 
 }
+
+
+
+
+@media screen and (min-width:500px){
+
+body{
+
+	flex-direction: column !important;
+		margin: 3rem;
+}
+	
+		
+
+
 
 @media screen and (max-width: 800px){
 	.location{
