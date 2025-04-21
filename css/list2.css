@@ -208,6 +208,18 @@ body.location p{
 
 }
 
+button_next{
+
+}
+
+button_previous{
+
+}
+
+stepper{
+
+}
+
 @media screen and (max-width: 800px){
 	.location{
 
