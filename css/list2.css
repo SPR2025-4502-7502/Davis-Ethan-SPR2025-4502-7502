@@ -144,7 +144,6 @@ body.location p{
 	align-items:center;
 }
 
-
 .buttongallery{
 	background-color: #cc6699;
 	margin: 1rem;
@@ -167,6 +166,11 @@ body.location p{
 
 .gallery-image{
 	max-width: 50%;
+}
+
+.gallery-image img{
+
+width: 100%;
 }
 
 .captioncontainer{
