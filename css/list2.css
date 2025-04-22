@@ -175,7 +175,7 @@ width: 100%;
 
 .captioncontainer{
 	display: flex;
-	justify-content: center;
+	flex-direction: row;
 	background-color:#ccccff;
 	padding: 10px;
 	border-radius: 10px;
