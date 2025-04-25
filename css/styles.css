@@ -2,10 +2,8 @@
 	position: absolute;
 	width: 1px;
 	height: 1px;
-	padding: 1;
-	margin: 1px;
 	overflow: hidden;
-	border: 0;
+	
 }
 
 .skip-link:focus{
