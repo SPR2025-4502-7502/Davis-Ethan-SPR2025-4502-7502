@@ -72,6 +72,7 @@ nav ul li a{
 	flex-direction: row;
 	justify-content: left;
 	font-size: 2.3rem;
+	font-family: "Kumbh Sans", serif;
 }
 
 
@@ -100,6 +101,24 @@ p{
 	max-width: 275px;
 	margin: 1rem;
 	border-radius: 0.4rem;
+}
+
+
+
+
+.main-image img{
+
+
+	max-width: 25%;
+	border-radius: 3000px;
+	
+}
+
+.red{
+	background-color:palevioletred;
+	width: 150px;
+	height: 150px;
+
 }
 
 
