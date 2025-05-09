@@ -321,14 +321,39 @@ body{
 
 
 
-@media screen and (min-width:800px){
+@media screen and (min-width:720px){
 
 	.poster {
 
 		flex-direction: row !important;
 		margin: 3rem;
 	}
+
+	body{
+
+	}
+	.poster img {
+
+		padding: 3rem;
+	}
 }
+
+
+@media screen and (max-width: 500px){
+
+.poster img{
+	max-width: 80%;
+	border-radiys: 30px;
+
+}
+
+
+}
+
+
+
+
+
 
 @media only screen 
   and (min-device-width: 375px) 
