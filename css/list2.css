@@ -103,7 +103,7 @@ p{
 	border-radius: 0.4rem;
 }
 
-.home body{
+.home{
 
 	display: flex;
 	flex-direction: column;
