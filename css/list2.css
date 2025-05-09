@@ -190,6 +190,15 @@ body.location p{
 	margin: auto;
 }
 
+.arena-container{
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+	align-items: center;
+	max-width: 900px;
+	margin: auto;
+}
+
 .location{
 	background-color: #c0f59a;
 
