@@ -196,6 +196,11 @@ body.location p{
 }
 
 
+.arena{
+	background-color: #f29e96;
+}
+
+
 .gallery-chicken{
 	display: flex;
 	flex-direction: column;
