@@ -190,7 +190,7 @@ body.location p{
 	margin: auto;
 }
 
-.arena-container{
+.media-container{
 	display: flex;
   flex-direction: column;
   justify-content: center;
