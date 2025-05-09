@@ -94,7 +94,11 @@ p{
 
 }
 
+.poster{
 
+	display:flex;
+	justify-content: center;
+}
 
 .poster img{
 
