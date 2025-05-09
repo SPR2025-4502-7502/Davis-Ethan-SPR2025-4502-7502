@@ -117,6 +117,18 @@ p{
 	border-radius: 0.4rem;
 }
 
+
+.arena-image{
+	display: flex;
+	justify-content: center;
+}
+
+.arena-image img{
+	max-width: 500px;
+	margin: 1rem;
+	border-radius: 275px;
+}
+
 .home{
 
 	display: flex;
